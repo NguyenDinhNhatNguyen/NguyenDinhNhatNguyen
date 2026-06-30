@@ -98,7 +98,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NguyenDinhNhatNguyen&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NguyenDinhNhatNguyen&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NguyenDinhNhatNguyen&show_icons=true&theme=white" alt="GitHub Stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NguyenDinhNhatNguyen&layout=compact&theme=white" alt="Top Languages">
 </p>
 
