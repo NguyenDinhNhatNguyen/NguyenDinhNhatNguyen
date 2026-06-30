@@ -27,10 +27,12 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <code><img height="30" src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Verilog_HDL-0A3A5C?style=for-the-badge&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/ModelSim-2A519E?style=for-the-badge"></code>
+  <code><img height="30" src="https://img.shields.io/badge/ModelSim_Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Synopsys-5C2D91?style=for-the-badge&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 </p>
 
@@ -99,3 +101,4 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=NguyenDinhNhatNguyen&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NguyenDinhNhatNguyen&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
