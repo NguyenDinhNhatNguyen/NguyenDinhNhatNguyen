@@ -55,11 +55,11 @@
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/NguyenDinhNhatNguyen/FPGA-VGA-Game-Console">16-bit Simple ISA Microprocessor</a></b><br>
+      <b><a href="https://github.com/NguyenDinhNhatNguyen/16-bit-Simple-ISA-Microprocessor-Design">16-bit Simple ISA Microprocessor</a></b><br>
       Designed a microprocessor utilizing both Single-Cycle and 5-stage Pipeline architectures. Proactively optimized hardware by prioritizing bit-shifting logic over multipliers within the ALU datapath to minimize chip area.
     </td>
     <td valign="top">
-      <b><a href="https://github.com/NguyenDinhNhatNguyen/FPGA-VGA-Game-Console">Vi xử lý 16-bit Simple ISA</a></b><br>
+      <b><a href="https://github.com/NguyenDinhNhatNguyen/16-bit-Simple-ISA-Microprocessor-Design">Vi xử lý 16-bit Simple ISA</a></b><br>
       Thiết kế vi xử lý ứng dụng cả hai kiến trúc Single-Cycle và Pipelining 5 bước. Chủ động tối ưu tài nguyên phần cứng bằng cách ưu tiên các phép dịch bit thay cho bộ nhân trong khối ALU, từ đó giảm thiểu diện tích vi mạch.
     </td>
   </tr>
