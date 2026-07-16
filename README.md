@@ -14,12 +14,10 @@
     <td width="50%" valign="top">
       <h3>🇬🇧 English</h3>
       Entering my senior year in Computer Engineering at UIT. I am entirely dedicated to <b>Digital IC Design (VLSI)</b> and Computer Architecture, driven by a logical problem-solving approach to optimize complex hardware at the RTL and gate levels.<br><br>
-      My technical philosophy centers on optimizing hardware resources and maintaining strict engineering discipline through seamless version control workflows.
     </td>
     <td width="50%" valign="top">
       <h3>🇻🇳 Tiếng Việt</h3>
       Chuẩn bị bước vào năm cuối của chuyên ngành Kỹ thuật Máy tính tại UIT. Tôi dồn toàn bộ trọng tâm vào lĩnh vực <b>Thiết kế Vi mạch Số</b> và Kiến trúc Máy tính, luôn áp dụng tư duy logic để tối ưu hóa phần cứng từ mức cổng đến mức RTL.<br><br>
-      Triết lý làm việc của tôi xoay quanh việc tối ưu hóa tài nguyên phần cứng và đề cao tính kỷ luật kỹ thuật thông qua quy trình quản lý mã nguồn bài bản.
     </td>
   </tr>
 </table>
