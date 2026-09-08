@@ -1,8 +1,12 @@
 <h1 align="center">Hi there, I'm Nguyễn Đình Nhật Nguyên 👋</h1>
-<h3 align="center">Aspiring Digital IC Design Engineer | Computer Engineering @ UIT, VNU-HCM</h3>
+
+<h3 align="center">FPGA Intern @ FPT Telecom | Computer Engineering Senior @ UIT, VNU-HCM</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Digital%20IC%20Design-blue?style=for-the-badge&logo=cpu" alt="Focus">
+  <code><img height="30" src="https://img.shields.io/badge/UNIVERSITY-UIT%20VNU--HCM-0099FF?style=for-the-badge&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/FOCUS-IC%20%26%20HARDWARE%20DESIGN-007EC6?style=for-the-badge&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/CURRENT%20COMPANY-FPT%20TELECOM-F37021?style=for-the-badge&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/CORPORATE%20PROJECT-AI%20CHIP-000000?style=for-the-badge&logoColor=white"></code>
 </p>
 
 <br>
@@ -13,11 +17,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🇬🇧 English</h3>
-      Entering my senior year in Computer Engineering at UIT. I am entirely dedicated to <b>Digital IC Design (VLSI)</b> and Computer Architecture, driven by a logical problem-solving approach to optimize complex hardware at the RTL and gate levels.<br><br>
+      Currently a <b>senior (4th-year) student</b> majoring in <b>Computer Engineering</b> with a specialization in <b>IC and Hardware Design at UIT</b>, with a current GPA of 7.65. Concurrently, working as an <b>FPGA Intern at FPT Telecom</b>, contributing to an <b>AI Chip project</b>. I am entirely dedicated to the field of IC and Hardware Design, always applying a logical problem-solving approach to optimize hardware from the gate level to the RTL.
     </td>
     <td width="50%" valign="top">
       <h3>🇻🇳 Tiếng Việt</h3>
-      Chuẩn bị bước vào năm cuối của chuyên ngành Kỹ thuật Máy tính tại UIT. Tôi dồn toàn bộ trọng tâm vào lĩnh vực <b>Thiết kế Vi mạch Số</b> và Kiến trúc Máy tính, luôn áp dụng tư duy logic để tối ưu hóa phần cứng từ mức cổng đến mức RTL.<br><br>
+      Hiện tại đang là <b>sinh viên năm 4 ngành Kỹ thuật Máy tính</b>b> theo <b>chuyên ngành Thiết kế Vi mạch và Phần cứng tại UIT</b> với GPA hiện tại là 7.65. Song song, đang thực tập tại <b>FPT Telecom</b> với vị trí <b>FPGA Intern</b> trong dự án <b>AI Chip</b>. Tôi dồn toàn bộ trọng tâm vào lĩnh vực Thiết kế Vi mạch và Phần cứng, luôn áp dụng tư duy logic để tối ưu hóa phần cứng từ mức cổng đến mức RTL.
     </td>
   </tr>
 </table>
