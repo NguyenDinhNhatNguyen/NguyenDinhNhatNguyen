@@ -21,7 +21,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🇻🇳 Tiếng Việt</h3>
-      Hiện tại đang là <b>sinh viên năm 4 ngành Kỹ thuật Máy tính</b>b> theo <b>chuyên ngành Thiết kế Vi mạch và Phần cứng tại UIT</b> với GPA hiện tại là 7.65. Song song, đang thực tập tại <b>FPT Telecom</b> với vị trí <b>FPGA Intern</b> trong dự án <b>AI Chip</b>. Tôi dồn toàn bộ trọng tâm vào lĩnh vực Thiết kế Vi mạch và Phần cứng, luôn áp dụng tư duy logic để tối ưu hóa phần cứng từ mức cổng đến mức RTL.
+      Hiện tại đang là <b>sinh viên năm 4 ngành Kỹ thuật Máy tính</b> theo <b>chuyên ngành Thiết kế Vi mạch và Phần cứng tại UIT</b> với GPA hiện tại là 7.65. Song song, đang thực tập tại <b>FPT Telecom</b> với vị trí <b>FPGA Intern</b> trong dự án <b>AI Chip</b>. Tôi dồn toàn bộ trọng tâm vào lĩnh vực Thiết kế Vi mạch và Phần cứng, luôn áp dụng tư duy logic để tối ưu hóa phần cứng từ mức cổng đến mức RTL.
     </td>
   </tr>
 </table>
