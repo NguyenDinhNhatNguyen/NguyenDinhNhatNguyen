@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nguyễn Đình Nhật Nguyên 👋</h1>
+<h1 align="center">Hi there, I'm Nguyễn Đình Nhật Nguyên </h1>
 
 <h3 align="center">FPGA Intern @ FPT Telecom | Computer Engineering Senior @ UIT, VNU-HCM</h3>
 
